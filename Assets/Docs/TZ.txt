@@ -1,0 +1,21 @@
+Bubble shooter
+
+Game differs from typical bubble shooter in PlayMarket
+
+Game is 2d with first player perspective
+Here, instead of static bubbles we have real soap bubbles that moved from bottom of screen (or maybe jar) to the upper boundary
+We need to "shoot" them in different ways (need to think about it)
+We can shoot them by touching, or by some weapons with projectiles
+Each level have progress, different bubbles speed and so on. 
+Player has restricted amount of lives, lives decreased at moment when bubble reached upper corner of screen
+
+
+
+Selling points:
+	
+	Real bubble flapping sound
+	Multiplayer - try to shoot more bubbles then your opponent in 1vs1 or 2vs2 party
+	Cartoonish style
+	IAP - weapons, bubble skins, ?
+	??
+	
